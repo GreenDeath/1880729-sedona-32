@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Константин Цветов](https://up.htmlacademy.ru/htmlcss/32/user/1880729).
-* Наставник: `Ирина Малиновская`.
+* Наставник: [Ирина Малиновская] (https://htmlacademy.ru/profile/irina-malinovskaya)
 
 ---
 
